@@ -1,8 +1,9 @@
-Backdrop cms العمل على دليل صدى للمواقع باستخدان نظام ادارة المحتوى 
-
+ دليل صدى للمواقع الشخصية والتجارية باستخدام نظام ادارة المحتوى باك دروب Backdrop cms 
+ 
 للاقتراحات والملاحظات استخدموا الرابط 
 
 https://github.com/shabib-m/directory-ssdaa-1.2-ba/issues
+===============================================================
 
 Backdrop is a full-featured content management system that allows non-technical
 users to manage a wide variety of content. It can be used to create all kinds of
